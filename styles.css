@@ -144,6 +144,7 @@ nav {
     flex: 1;
     display: flex;
     align-items: center;
+    margin-top: 2rem;
 }
 
 .about-me__img {
